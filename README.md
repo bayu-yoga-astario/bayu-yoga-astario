@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**bayu-yoga-astario/bayu-yoga-astario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+object BayuYogaAstario {
+    val name     = "Bayu Yoga Astario"
+    val username = "bayu-yoga-astario"
+    val role     = "Android & Web Developer"
+    val education = "Lulusan Informatika"
+    
+    val languages = listOf("Kotlin", "Java", "PHP", "HTML", "JavaScript", "MySQL")
+    val interests = listOf("Mobile Development", "Web Development", "Open Source")
+    val status    = "🟢 Terbuka untuk peluang baru!"
+    
+    fun greet() = println("Halo! Mari kita bangun sesuatu yang luar biasa bersama! 🚀")
+}
