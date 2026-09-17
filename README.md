@@ -127,6 +127,18 @@
 
 ---
 
+### 🐍 Real-Time Contribution Activity (Snake Game)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bayu-yoga-astario/bayu-yoga-astario/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bayu-yoga-astario/bayu-yoga-astario/output/github-snake.svg" />
+    <img alt="Bayu's GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/bayu-yoga-astario/bayu-yoga-astario/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
 ### 📊 Matrix Telemetry & Git Analytics
 
 <div align="center">
