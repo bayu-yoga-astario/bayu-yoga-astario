@@ -1,18 +1,8 @@
 <div align="center">
 
-  <!-- HACKER TERMINAL HEADER BANNER (RUNNING TYPING TEXT) -->
-  <a href="https://github.com/bayu-yoga-astario">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&pause=1200&color=00FF66&center=true&vCenter=true&width=750&height=75&lines=%3E_++BAYU+YOGA+ASTARIO;%3E_++ANDROID+%26+WEB+DEVELOPER;%3E_++INFORMATICS+ENGINEER+%F0%9F%8E%93;%3E_++SYSTEM+ONLINE+%5B200+OK%5D+%F0%9F%9A%80" alt="Bayu Yoga Astario Running Banner" />
-  </a>
-
-  <!-- SUBTITLE RUNNING STREAM -->
+  <!-- Quick Connection Badges (Terminal Style) -->
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00E5FF&center=true&vCenter=true&width=720&height=32&lines=%2B+Specialized+in+Kotlin%2C+Android+Jetpack%2C+Java%2C+PHP%2C+MySQL;%2B+Creator+of+MineSafe+AI+%26+Enterprise+HRIS+Platforms;%2B+Crafting+Clean%2C+Secure+%26+High-Performance+Software..." alt="Subtitle Typing Stream" />
-  </p>
-
-  <!-- QUICK CONNECTION BADGES -->
-  <p align="center">
-    <a href="https://www.linkedin.com/in/bayu-yoga-astario" target="_blank">
+    <a href="https://linkedin.com/in/bayu-yoga-astario" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:bayuyogaastario002@gmail.com">
@@ -24,30 +14,37 @@
 
 </div>
 
----
-
-### 💻 System Terminal & Live Diagnostics
-
+<!-- Terminal Window Container (High-Contrast Hacker Dark Theme) -->
 <table width="100%">
   <thead>
     <tr>
       <th align="left">
-        🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;&nbsp;<b>bash — terminal@bayu-machine:~ (Live Real-Time Stream)</b>
+        🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;&nbsp;<b>bash — terminal@bayu-core:~ (Live Interactive Session)</b>
       </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center">
+      <td align="center" style="background-color: #0D1117;">
+        <!-- Large Primary Running Typing Name & Role (Dark Background for High Contrast) -->
         <a href="https://github.com/bayu-yoga-astario">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1400&color=00FF66&background=0D1117&center=false&vCenter=true&width=760&height=52&lines=%24+whoami+--role;%3E+Bayu+Yoga+Astario+%7C+Android+%26+Web+Software+Engineer;%24+cat+education.txt;%3E+Bachelor+of+Informatics+(S.Kom)+%F0%9F%8E%93;%24+systemctl+status+availability;%3E+Active%3A+ONLINE+%5B200+OK%5D+%7C+Ready+to+Deploy+%F0%9F%9A%80;%24+fetch+core-stack;%3E+Kotlin+%E2%80%A2+Android+MVVM+%E2%80%A2+Java+%E2%80%A2+PHP+%E2%80%A2+MySQL;%24+echo+%24MISSION;%3E+%22Building+robust%2C+secure+%26+scalable+digital+solutions.%22" width="100%" alt="Terminal Typing Live Stream" />
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1200&color=00FF66&background=0D1117&center=true&vCenter=true&width=750&height=65&lines=%3E_++BAYU+YOGA+ASTARIO;%3E_++ANDROID+(KOTLIN%2FJAVA)+DEV;%3E_++FULLSTACK+WEB+(PHP%2FMYSQL);%3E_++INFORMATICS+GRADUATE+%F0%9F%8E%93;%3E_++STATUS%3A+OPEN+TO+WORK+%F0%9F%9A%80" width="100%" alt="Bayu Yoga Astario Running Banner" />
         </a>
+        <br>
+        <!-- Secondary Typing Stream (Cyan Accent on Dark Background) -->
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00E5FF&background=0D1117&center=true&vCenter=true&width=750&height=35&lines=%2B+Specialized+in+Kotlin%2C+Android+Jetpack%2C+Java%2C+PHP%2C+MySQL;%2B+Creator+of+MineSafe+AI+%26+Enterprise+HRIS+Platforms;%2B+Crafting+Clean%2C+Secure+%26+High-Performance+Software..." width="100%" alt="Subtitle Typing Stream" />
+        <br>
+        <!-- Real-Time Diagnostic Stream -->
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1400&color=39FF14&background=0D1117&center=false&vCenter=true&width=750&height=40&lines=%24+whoami+--role;%3E+Bayu+Yoga+Astario+%5BSoftware+Engineer%5D;%24+systemctl+status+availability;%3E+Active%3A+ONLINE+%5B200+OK%5D+%7C+Ready+to+Deploy+%F0%9F%9A%80;%24+echo+%24MISSION;%3E+%22Engineering+robust%2C+secure+%26+scalable+digital+solutions.%22" width="100%" alt="Terminal Typing Live Stream" />
       </td>
     </tr>
   </tbody>
 </table>
 
-#### 📋 Professional Profile Summary
+---
+
+### 📋 Professional Profile Summary
+
 - 🎓 **Education:** Sarjana Komputer (S.Kom) — Lulusan Teknik Informatika dengan komitmen tinggi pada kualitas kode dan arsitektur perangkat lunak.
 - 📱 **Mobile Development:** Berfokus pada pengembangan aplikasi native Android dengan **Kotlin & Java**, mengimplementasikan arsitektur **MVVM**, **Clean Code**, serta integrasi data melalui **Retrofit / RESTful API**.
 - 🌐 **Web & Backend:** Berpengalaman merancang sistem informasi terintegrasi, portal enterprise (HRIS), dan database relasional menggunakan **PHP, JavaScript, dan MySQL**.
