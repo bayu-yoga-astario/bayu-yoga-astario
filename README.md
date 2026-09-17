@@ -52,6 +52,14 @@
 
 ---
 
+### 🐍 Real-Time Contribution Activity (Snake Game)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bayu-yoga-astario/bayu-yoga-astario/output/github-snake.svg" alt="Bayu Yoga Astario GitHub Contribution Snake Game" width="100%" />
+</div>
+
+---
+
 ### 🛡️ Tech Stack & Arsenal
 
 <table width="100%">
@@ -127,30 +135,6 @@
 
 ---
 
-### 🐍 Real-Time Contribution Activity (Snake Game)
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th align="left">
-        🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;&nbsp;<b>retro-arcade — contribution-snake@bayu: ~ (Live Eating-Commits Snake Game)</b>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="background-color: #0D1117;">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bayu-yoga-astario/bayu-yoga-astario/output/github-snake-dark.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bayu-yoga-astario/bayu-yoga-astario/output/github-snake.svg" />
-          <img alt="Bayu's GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/bayu-yoga-astario/bayu-yoga-astario/output/github-snake.svg" width="100%" />
-        </picture>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
----
 
 ### 📊 Matrix Telemetry & Git Analytics
 
