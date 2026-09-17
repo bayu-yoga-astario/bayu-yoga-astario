@@ -1,26 +1,45 @@
 <div align="center">
 
-  <!-- Clean Professional Header Badges -->
+  <!-- Quick Connection Badges (Terminal Style) -->
   <p align="center">
     <a href="https://linkedin.com/in/bayu-yoga-astario" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    &nbsp;
     <a href="mailto:bayuyogaastario002@gmail.com">
-      <img src="https://img.shields.io/badge/Email-bayuyogaastario002-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/EMAIL-bayuyogaastario002-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    &nbsp;
-    <img src="https://img.shields.io/badge/Location-Karawang%2C%20ID-10B981?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Status-Open%20to%20Work-0284C7?style=flat-square&logo=briefcase&logoColor=white" alt="Status" />
+    <img src="https://img.shields.io/badge/LOCATION-Karawang%2C%20ID-00FF66?style=for-the-badge&logo=googlemaps&logoColor=black" alt="Location" />
+    <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00e5ff?style=for-the-badge&logo=codeforces&logoColor=black" alt="Status" />
   </p>
 
-  <!-- Seamless Unified Terminal Stream -->
-  <a href="https://github.com/bayu-yoga-astario">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1400&color=00FF66&background=0D1117&center=true&vCenter=true&width=800&height=70&lines=root%40bayu%3A~%23+whoami;%3E%3E+Bayu+Yoga+Astario+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;root%40bayu%3A~%23+get-role;%3E%3E+Android+%26+Web+Software+Engineer+%E2%9A%A1;root%40bayu%3A~%23+cat+education.txt;%3E%3E+Bachelor+of+Informatics+(S.Kom)+%F0%9F%8E%93;root%40bayu%3A~%23+check-status;%3E%3E+Active%3A+ONLINE+%7C+Open+to+Work+%F0%9F%9A%80" width="100%" alt="Bayu Terminal Stream" />
-  </a>
-
 </div>
+
+<!-- Terminal Window Container (High-Contrast Hacker Dark Theme) -->
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">
+        🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;&nbsp;<b>bash — terminal@bayu-core:~ (Live Interactive Session)</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="background-color: #0D1117;">
+        <!-- Large Primary Running Typing Name & Role (Dark Background for High Contrast) -->
+        <a href="https://github.com/bayu-yoga-astario">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=1200&color=00FF66&background=0D1117&center=true&vCenter=true&width=750&height=65&lines=%3E_++BAYU+YOGA+ASTARIO;%3E_++ANDROID+(KOTLIN%2FJAVA)+DEV;%3E_++FULLSTACK+WEB+(PHP%2FMYSQL);%3E_++INFORMATICS+GRADUATE+%F0%9F%8E%93;%3E_++STATUS%3A+OPEN+TO+WORK+%F0%9F%9A%80" width="100%" alt="Bayu Yoga Astario Running Banner" />
+        </a>
+        <br>
+        <!-- Secondary Typing Stream (Cyan Accent on Dark Background) -->
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00E5FF&background=0D1117&center=true&vCenter=true&width=750&height=35&lines=%2B+Specialized+in+Kotlin%2C+Android+Jetpack%2C+Java%2C+PHP%2C+MySQL;%2B+Creator+of+MineSafe+AI+%26+Enterprise+HRIS+Platforms;%2B+Crafting+Clean%2C+Secure+%26+High-Performance+Software..." width="100%" alt="Subtitle Typing Stream" />
+        <br>
+        <!-- Real-Time Diagnostic Stream -->
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1400&color=39FF14&background=0D1117&center=false&vCenter=true&width=750&height=40&lines=%24+whoami+--role;%3E+Bayu+Yoga+Astario+%5BSoftware+Engineer%5D;%24+systemctl+status+availability;%3E+Active%3A+ONLINE+%5B200+OK%5D+%7C+Ready+to+Deploy+%F0%9F%9A%80;%24+echo+%24MISSION;%3E+%22Engineering+robust%2C+secure+%26+scalable+digital+solutions.%22" width="100%" alt="Terminal Typing Live Stream" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
