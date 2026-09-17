@@ -1,12 +1,17 @@
 <div align="center">
 
-  <!-- Cyber Terminal Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:090d16,100:0d1117&height=180&section=header&text=%3C%20BAYU%20YOGA%20ASTARIO%20/%3E&fontSize=42&fontColor=00FF66&fontAlignY=42&desc=%5B%20%2B%20%5D%20INFORMATICS%20GRADUATE%20%7C%20ANDROID%20%26%20WEB%20DEVELOPER&descFontSize=16&descColor=00e5ff&descAlignY=68" width="100%" alt="Bayu Cyber Header" />
+  <!-- Terminal Header Visual -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050811,100:0d1117&height=120&section=header&text=%E2%9A%A1+TERMINAL+INTERFACE+%E2%9A%A1&fontSize=22&fontColor=00e5ff&fontAlignY=50" width="100%" alt="Cyber Terminal Interface" />
 
-  <!-- Running / Typing Animation Terminal Effect -->
+  <!-- Primary Running Typing Animation: BAYU YOGA ASTARIO -->
   <a href="https://github.com/bayu-yoga-astario">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00FF66&center=true&vCenter=true&width=650&height=45&lines=%3E_++Initializing+Developer+Profile...;%3E_++Specialized+in+Android+(Kotlin%2FJava)+%26+Web+(PHP%2FMySQL);%3E_++Building+Secure%2C+Intelligent+%26+Scalable+Apps;%3E_++AI+%26+Workplace+Safety+Monitoring+Innovator;%3E_++Status%3A+System+Online+%7C+Open+to+Work+%F0%9F%9A%80" alt="Running Hacker Typing Text" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=1200&color=00FF66&center=true&vCenter=true&width=700&height=75&lines=%3E_++BAYU+YOGA+ASTARIO;%3E_++ANDROID+DEVELOPER;%3E_++WEB+%26+BACKEND+DEV;%3E_++INFORMATICS+ENGINEER;%3E_++STATUS%3A+OPEN+TO+WORK+%F0%9F%9A%80" alt="Running Name Animation" />
   </a>
+
+  <!-- Secondary Cyber Stream Running Text -->
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00e5ff&center=true&vCenter=true&width=700&height=35&lines=%2B+Specialized+in+Kotlin%2C+Java%2C+PHP%2C+MySQL+%26+Modern+Stack;%2B+Creator+of+MineSafe+AI+%26+Enterprise+HRIS+Systems;%2B+Crafting+Clean%2C+Secure+%26+Scalable+Codebases..." alt="Sub Typing Stream" />
+  </p>
 
   <!-- Quick Connection Badges (Terminal Style) -->
   <p align="center">
