@@ -1,17 +1,7 @@
 <div align="center">
 
-  <!-- Terminal Header Visual -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:050811,100:0d1117&height=120&section=header&text=%E2%9A%A1+TERMINAL+INTERFACE+%E2%9A%A1&fontSize=22&fontColor=00e5ff&fontAlignY=50" width="100%" alt="Cyber Terminal Interface" />
-
-  <!-- Primary Running Typing Animation: BAYU YOGA ASTARIO -->
-  <a href="https://github.com/bayu-yoga-astario">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=1200&color=00FF66&center=true&vCenter=true&width=700&height=75&lines=%3E_++BAYU+YOGA+ASTARIO;%3E_++ANDROID+DEVELOPER;%3E_++WEB+%26+BACKEND+DEV;%3E_++INFORMATICS+ENGINEER;%3E_++STATUS%3A+OPEN+TO+WORK+%F0%9F%9A%80" alt="Running Name Animation" />
-  </a>
-
-  <!-- Secondary Cyber Stream Running Text -->
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00e5ff&center=true&vCenter=true&width=700&height=35&lines=%2B+Specialized+in+Kotlin%2C+Java%2C+PHP%2C+MySQL+%26+Modern+Stack;%2B+Creator+of+MineSafe+AI+%26+Enterprise+HRIS+Systems;%2B+Crafting+Clean%2C+Secure+%26+Scalable+Codebases..." alt="Sub Typing Stream" />
-  </p>
+  <!-- Sleek Cyber Terminal Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,50:0d1b2a,100:002b36&height=180&section=header&text=BAYU%20YOGA%20ASTARIO&fontSize=42&fontColor=00FF66&animation=fadeIn&fontAlignY=38&desc=%5B%20%2B%20%5D%20INFORMATICS%20GRADUATE%20%7C%20ANDROID%20%26%20WEB%20DEVELOPER&descFontSize=16&descColor=00e5ff&descAlignY=62" width="100%" alt="Bayu Yoga Astario Banner" />
 
   <!-- Quick Connection Badges (Terminal Style) -->
   <p align="center">
@@ -29,22 +19,32 @@
 
 ---
 
-### 💻 `root@bayu-terminal:~#` System Diagnostic
+### 💻 System Terminal & Live Diagnostics
 
-```bash
-root@bayu-terminal:~# whoami
->> Bayu Yoga Astario [Informatics Graduate / Software Engineer]
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">
+        🔴&nbsp;🟡&nbsp;🟢&nbsp;&nbsp;&nbsp;<b>bash — terminal@bayu-machine:~ (Live Real-Time Stream)</b>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/bayu-yoga-astario">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1400&color=00FF66&background=0D1117&center=false&vCenter=true&width=760&height=52&lines=%24+whoami+--role;%3E+Bayu+Yoga+Astario+%7C+Android+%26+Web+Software+Engineer;%24+cat+education.txt;%3E+Bachelor+of+Informatics+(S.Kom)+%F0%9F%8E%93;%24+systemctl+status+availability;%3E+Active%3A+ONLINE+%5B200+OK%5D+%7C+Ready+to+Deploy+%F0%9F%9A%80;%24+fetch+core-stack;%3E+Kotlin+%E2%80%A2+Android+MVVM+%E2%80%A2+Java+%E2%80%A2+PHP+%E2%80%A2+MySQL;%24+echo+%24MISSION;%3E+%22Building+robust%2C+secure+%26+scalable+digital+solutions.%22" width="100%" alt="Terminal Typing Live Stream" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-root@bayu-terminal:~# systemctl status developer.service
-● developer.service - Fullstack Android & Web Engineering Core
-     Loaded: loaded (/etc/systemd/system/developer.service; enabled)
-     Active: active (running) [200 OK - High Availability]
-     Origin: Karawang, West Java, Indonesia 🇮🇩
-     Education: Bachelor of Informatics (S.Kom) 🎓
-     Core Philosophy: "Write clean, secure, and maintainable code that delivers real impact."
-     Current Focus: Native Android (Kotlin), MVVM, REST APIs, & Web Systems
-     Status: 🟢 SYSTEM READY FOR HIRE / COLLABORATION
-```
+#### 📋 Professional Profile Summary
+- 🎓 **Education:** Sarjana Komputer (S.Kom) — Lulusan Teknik Informatika dengan komitmen tinggi pada kualitas kode dan arsitektur perangkat lunak.
+- 📱 **Mobile Development:** Berfokus pada pengembangan aplikasi native Android dengan **Kotlin & Java**, mengimplementasikan arsitektur **MVVM**, **Clean Code**, serta integrasi data melalui **Retrofit / RESTful API**.
+- 🌐 **Web & Backend:** Berpengalaman merancang sistem informasi terintegrasi, portal enterprise (HRIS), dan database relasional menggunakan **PHP, JavaScript, dan MySQL**.
+- 🚀 **Karier & Peluang:** Terbuka untuk peluang kerja (*Full-time*, *Contract*, maupun *Remote*) sebagai **Android Developer**, **Web Developer**, ataupun **Junior Software Engineer**.
 
 ---
 
@@ -91,34 +91,34 @@ root@bayu-terminal:~# systemctl status developer.service
 
 ---
 
-### 🚀 Deployed Projects & Repositories
+### 🚀 Featured Deployed Projects
 
 ```diff
-+ [SECURITY & AI SYSTEM]
++ [SECURITY & AI MONITORING SYSTEM]
 ```
 > **[MineSafe AI](https://github.com/bayu-yoga-astario/minesafe-ai)**  
-> ↳ *Intelligent Workplace Safety Monitoring System.* Deteksi dan otomasi pemantauan keselamatan kerja berbasis kecerdasan buatan (AI) untuk lingkungan industri.  
-> `Stack:` `JavaScript` `AI/ML` `Computer Vision / Safety Detection`
+> ↳ *Intelligent Workplace Safety Monitoring System.* Sistem pemantauan keselamatan kerja otomatis berbasis kecerdasan buatan (AI) untuk lingkungan industri dan area kerja kritis.  
+> `Stack:` `JavaScript` `AI/ML` `Computer Vision`
 
 ```diff
-+ [ENTERPRISE WEB SYSTEM]
++ [ENTERPRISE WEB PLATFORM]
 ```
 > **[Sistem Manajemen Karyawan (HRIS)](https://github.com/bayu-yoga-astario/sistem-manajemen-karyawan-hris)**  
-> ↳ Platform pengelolaan sumber daya manusia (HRIS) komprehensif: manajemen data karyawan, pencatatan absensi, dan administrasi payroll.  
+> ↳ Platform Human Resource Information System terpadu: pengelolaan data karyawan terpusat, rekap absensi, dan administrasi payroll.  
 > `Stack:` `PHP` `MySQL` `Web Architecture`
 
 ```diff
-+ [MOBILE COMMERCE]
++ [MOBILE COMMERCE APPLICATION]
 ```
 > **[Marketplace Sayur](https://github.com/bayu-yoga-astario/marketplace-sayur)**  
-> ↳ Sistem e-commerce distribusi pangan & sayuran segar berbasis integrasi aplikasi mobile Android dan web backend.  
+> ↳ Sistem e-commerce distribusi pangan & sayuran segar berbasis integrasi aplikasi mobile Android dan backend web.  
 > `Stack:` `Android` `Kotlin / Java` `PHP` `MySQL`
 
 ```diff
 + [IOT & TELEMETRY MONITORING]
 ```
 > **[Fuel Distribution Monitoring](https://github.com/bayu-yoga-astario/fuel-distribution-monitoring)**  
-> ↳ Dashboard monitoring dan telemetri distribusi bahan bakar secara akurat, real-time, dan terpusat.  
+> ↳ Dashboard pemantauan dan telemetri distribusi bahan bakar secara real-time, akurat, dan terintegrasi.  
 > `Stack:` `JavaScript` `HTML5/CSS3` `Telemetry`
 
 ---
