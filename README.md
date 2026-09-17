@@ -52,13 +52,6 @@
 
 ---
 
-### 🐍 Real-Time Contribution Activity (Snake Game)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/bayu-yoga-astario/bayu-yoga-astario/output/github-snake.svg" alt="Bayu Yoga Astario GitHub Contribution Snake Game" width="100%" />
-</div>
-
----
 
 ### 🛡️ Tech Stack & Arsenal
 
@@ -146,6 +139,14 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayu-yoga-astario&theme=matrix&hide_border=true" height="150" alt="Matrix Streak Stats" />
 </p>
+
+---
+
+### 🐍 Real-Time Contribution Activity (Snake Game)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/bayu-yoga-astario/bayu-yoga-astario/output/github-snake.svg" alt="Bayu Yoga Astario GitHub Contribution Snake Game" width="100%" />
+</div>
 
 ---
 
