@@ -1,18 +1,25 @@
 <div align="center">
 
-  <!-- Sleek Cyber Terminal Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,50:0d1b2a,100:002b36&height=180&section=header&text=BAYU%20YOGA%20ASTARIO&fontSize=42&fontColor=00FF66&animation=fadeIn&fontAlignY=38&desc=%5B%20%2B%20%5D%20INFORMATICS%20GRADUATE%20%7C%20ANDROID%20%26%20WEB%20DEVELOPER&descFontSize=16&descColor=00e5ff&descAlignY=62" width="100%" alt="Bayu Yoga Astario Banner" />
+  <!-- HACKER TERMINAL HEADER BANNER (RUNNING TYPING TEXT) -->
+  <a href="https://github.com/bayu-yoga-astario">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=34&pause=1200&color=00FF66&center=true&vCenter=true&width=750&height=75&lines=%3E_++BAYU+YOGA+ASTARIO;%3E_++ANDROID+%26+WEB+DEVELOPER;%3E_++INFORMATICS+ENGINEER+%F0%9F%8E%93;%3E_++SYSTEM+ONLINE+%5B200+OK%5D+%F0%9F%9A%80" alt="Bayu Yoga Astario Running Banner" />
+  </a>
 
-  <!-- Quick Connection Badges (Terminal Style) -->
+  <!-- SUBTITLE RUNNING STREAM -->
   <p align="center">
-    <a href="https://linkedin.com/in/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00E5FF&center=true&vCenter=true&width=720&height=32&lines=%2B+Specialized+in+Kotlin%2C+Android+Jetpack%2C+Java%2C+PHP%2C+MySQL;%2B+Creator+of+MineSafe+AI+%26+Enterprise+HRIS+Platforms;%2B+Crafting+Clean%2C+Secure+%26+High-Performance+Software..." alt="Subtitle Typing Stream" />
+  </p>
+
+  <!-- QUICK CONNECTION BADGES -->
+  <p align="center">
+    <a href="https://www.linkedin.com/in/bayu-yoga-astario" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:bayuyogaastario002@gmail.com">
       <img src="https://img.shields.io/badge/EMAIL-bayuyogaastario002-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     <img src="https://img.shields.io/badge/LOCATION-Karawang%2C%20ID-00FF66?style=for-the-badge&logo=googlemaps&logoColor=black" alt="Location" />
-    <img src="https://img.shields.io/badge/AVAILABILITY-OPEN%20TO%20WORK-00e5ff?style=for-the-badge&logo=codeforces&logoColor=black" alt="Availability" />
+    <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00e5ff?style=for-the-badge&logo=codeforces&logoColor=black" alt="Status" />
   </p>
 
 </div>
